@@ -1,0 +1,16 @@
+.movieList {
+  &__item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+.noCover {
+  height: 278px;
+  width: 185px;
+  background: #ddd;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
